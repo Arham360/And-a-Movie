@@ -31,6 +31,18 @@ public class UserProfile {
         this.fandangoPassword = fandangoPassword;
     }
 
+    public String getmFirstName() { return firstName; }
+    public String getmLastName() {
+        return lastName;
+    }
+    public String getmGender() {
+        return gender;
+    }
+    public Integer getmAge() { return age; }
+    public String getmZipCode() { return zipCode; }
+    public String getNameOfMovie() { return nameOfMovie; }
+    public String getmFandangoEmail() { return fandangoEmail; }
+    public String getmFandangoPassword() { return fandangoPassword; }
 
 
 }

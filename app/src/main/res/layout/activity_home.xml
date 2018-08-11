@@ -19,7 +19,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Test"
-        android:id="@+id/test" />
+        android:id="@+id/test_button" />
 
     </FrameLayout>
 </android.support.constraint.ConstraintLayout>
