@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "522965565662",
+    "firebase_url": "https://and-a-movie.firebaseio.com",
+    "project_id": "and-a-movie",
+    "storage_bucket": "and-a-movie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522965565662:android:6bbbebf63c9d6712",
+        "android_client_info": {
+          "package_name": "com.example.arhamakbar.andamovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522965565662-gnt28mhgk6elvuhl5h0vult4vt385g3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7_XuZ3R6hXhuxixtKXMIZXCjXscr1M6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
