@@ -8,6 +8,7 @@ import android.widget.TextView;
 
 import com.example.arhamakbar.andamovie.Activities.Home.MovieFragment.OnListFragmentInteractionListener;
 import com.example.arhamakbar.andamovie.Activities.Home.dummy.DummyContent.DummyItem;
+import com.example.arhamakbar.andamovie.R;
 
 import java.util.List;
 
